@@ -2,7 +2,7 @@ import java.security.spec.RSAOtherPrimeInfo;
 
 public class Main {
     public static void main(String[] args) {
-        task1();
+        task_1();
         task2();
         task3();
         task4();
@@ -12,7 +12,7 @@ public class Main {
         task8();
         task9();
     }
-    public static void task1() {
+    public static void task_1() {
         System.out.println("Задание 1");
         int age = 18;
         if (age >= 18) {
